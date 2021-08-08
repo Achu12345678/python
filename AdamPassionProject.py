@@ -267,7 +267,7 @@ def animal_quiz():
                 break
 
 
-print('Passion Project - Game developed in Python by Adam Tomydas')
+print('Passion Project - Game developed in Python by Achu')
 print('----------------------------------------------------------')
 print('\n')
 
