@@ -1,4 +1,4 @@
-# Python Program - written by Adam Tomydas
+# Python Program - written by Achu
 
 import random
 import string
